@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/formapp.git/static/css/main.13dbdf01.css",
-    "main.js": "/formapp.git/static/js/main.1daa0259.js",
-    "static/js/453.bccf7a9a.chunk.js": "/formapp.git/static/js/453.bccf7a9a.chunk.js",
-    "index.html": "/formapp.git/index.html",
-    "main.13dbdf01.css.map": "/formapp.git/static/css/main.13dbdf01.css.map",
-    "main.1daa0259.js.map": "/formapp.git/static/js/main.1daa0259.js.map",
-    "453.bccf7a9a.chunk.js.map": "/formapp.git/static/js/453.bccf7a9a.chunk.js.map"
+    "main.css": "/formapp/static/css/main.13dbdf01.css",
+    "main.js": "/formapp/static/js/main.e2c10277.js",
+    "static/js/453.bccf7a9a.chunk.js": "/formapp/static/js/453.bccf7a9a.chunk.js",
+    "index.html": "/formapp/index.html",
+    "main.13dbdf01.css.map": "/formapp/static/css/main.13dbdf01.css.map",
+    "main.e2c10277.js.map": "/formapp/static/js/main.e2c10277.js.map",
+    "453.bccf7a9a.chunk.js.map": "/formapp/static/js/453.bccf7a9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13dbdf01.css",
-    "static/js/main.1daa0259.js"
+    "static/js/main.e2c10277.js"
   ]
 }
